@@ -4,11 +4,6 @@ import java.io.Serializable;
 
 import org.json.simple.JSONObject;
 
-/**
- * @author John Britto
- *
- *         The model class used to write in DataStore
- */
 public class Data implements Serializable {
 	/**
 	 * 
