@@ -12,10 +12,6 @@ import java.util.HashMap;
 
 import com.datastore.main.bean.Data;
 
-/**
- * @author John Britto This class Handles general util methods like validation,
- *         file operation like read,write,update
- */
 public class CommonUtils {
 
 	/**
